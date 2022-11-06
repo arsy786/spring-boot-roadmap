@@ -17,7 +17,7 @@ Link to Prerequisites and Extra Section: [https://github.com/arsy786/prerequisit
 
 Contains sections on:
 1. Git 
-2. Logging/Documentation
+2. Logging
 
 Link to Prerequisites and Extra Section: [https://github.com/arsy786/prerequisites-and-extra-tutorials](https://github.com/arsy786/prerequisites-and-extra-tutorials)
 
