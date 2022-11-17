@@ -57,7 +57,6 @@ Link to Spring Security Section: [https://github.com/arsy786/spring-security-tut
 
 ## D. Example Projects and Supporting Materials
 
-
 | <ins>Example Projects | 
 |------|
 | [Spring Boot MongoDB REST API (Simple)](https://github.com/arsy786/spring-boot-mongodb-rest-api)| 
