@@ -71,7 +71,7 @@ Link to Spring Security Section: [https://github.com/arsy786/spring-security-tut
 | [Java Core Guide (PDF)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/Java_QuickReference_v1.1.pdf)| 
 | [SQL Cheat Sheet (PDF)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/sql-basics-cheat-sheet-ledger.pdf)|
 | [MongoDB Cheat Sheet (PDF)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/MongoDB-Dark.pdf)| 
-| [UNIX Quick Reference (PDF/XXX)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/UNIX_QuickReference.pdf)|
+| [UNIX Quick Reference (PDF)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/UNIX_QuickReference.pdf)|
 | [Bash Cheat Sheet (GitHub)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)|
 | [Git Cheat Sheet (PDF)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/git-cheat-sheet.pdf)|
 | [Docker Cheat Sheet (PDF)](https://github.com/arsy786/spring-boot-microservices-new/blob/master/docker_cheatsheet.pdf)| 
