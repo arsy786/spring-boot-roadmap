@@ -55,7 +55,12 @@ Contains sections on:
 
 Link to Spring Security Section: [https://github.com/arsy786/spring-security-tutorials](https://github.com/arsy786/spring-security-tutorials)
 
-## D. Example Projects and Supporting Materials
+## C. List of Top Interview Questions 
+| [Spring Framework Top Interview Questions](https://rathod-ajay.medium.com/top-60-spring-framework-interview-questions-for-java-developers-2024-contain-all-the-questions-from-f15621f77d2a)|
+| [Spring Boot Top Interview Questions](https://www.geeksforgeeks.org/spring-boot-interview-questions-and-answers/)|
+| [Core Java Top Interview Questions](https://www.interviewbit.com/java-interview-questions/).|
+
+## E. Example Projects and Supporting Materials
 
 | <ins>Example Projects | 
 |------|
