@@ -60,7 +60,7 @@ Link to Spring Security Section: [https://github.com/arsy786/spring-security-tut
 |------|
 | [Spring Framework](https://rathod-ajay.medium.com/top-60-spring-framework-interview-questions-for-java-developers-2024-contain-all-the-questions-from-f15621f77d2a)|
 | [Spring Boot](https://www.geeksforgeeks.org/spring-boot-interview-questions-and-answers/)|
-| [Core Java](https://www.interviewbit.com/java-interview-questions/).|
+| [Core Java](https://www.interviewbit.com/java-interview-questions/)|
 
 ## E. Example Projects and Supporting Materials
 
