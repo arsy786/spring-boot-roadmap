@@ -1,4 +1,4 @@
-# spring-boot-roadmap
+# Spring Boot Roadmap
 This repo serves as an overview to mastering Spring Boot!
 
 ![Spring Boot Roadmap](Spring-Boot-Roadmap.png)
