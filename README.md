@@ -62,7 +62,8 @@ Link to Spring Security Section: [https://github.com/arsy786/spring-security-tut
 | [Spring Boot Best Practices](https://github.com/arsy786/springboot-best-practices)|
 | [Spring Boot MongoDB REST API (Simple)](https://github.com/arsy786/spring-boot-mongodb-rest-api)| 
 | [Football Club Management System (Advanced)](https://github.com/arsy786/football-club-management-system)|
-| [Spring Boot Microservices](https://github.com/arsy786/spring-boot-microservices-new)| 
+| [Spring Boot Microservices (v2)](https://github.com/arsy786/spring-boot-microservices-2)| 
+| [Spring Boot Microservices (v3)](https://github.com/arsy786/spring-boot-microservices-3)| 
 | [Spring Security Tutorials](https://github.com/arsy786/spring-security-tutorials)|
 
 
